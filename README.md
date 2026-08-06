@@ -33,8 +33,7 @@ The dataset includes:
 
 ## 🛠️ Tech Stack  
 - **Programming Language**: Python 🐍  
-- **Libraries**: Pandas, NumPy, Scikit-learn, XGBoost, SHAP, Matplotlib, Seaborn  
-- **Visualization**: Streamlit (interactive dashboard)  
+- **Libraries**: Pandas, NumPy, Scikit-learn, XGBoost, SHAP, Matplotlib, Seaborn    
 - **Database**: SQLite / CSV for dataset storage  
 - **Version Control**: Git & GitHub
 - 
